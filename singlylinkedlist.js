@@ -1,6 +1,5 @@
 "use strict";
 const prompt=require("prompt-sync")();
-const async=require("fs").promises
 
 class Node {
     constructor(val) {
