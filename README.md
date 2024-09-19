@@ -1,7 +1,7 @@
 # dsa-In-JavaScript
  This repository is dedicated to dsa using javaScript
 
- requirments:
+ requirments:                                                                                                                                                         
  1.node.js
  2.Decent knowledge of javaScript
 
