@@ -14,9 +14,9 @@ Starting off:
 
 2.install the required node packages
 
- 2.1 npm install --save prompt-sync
+   2.1 npm install --save prompt-sync
  
- 2.2 npm i readline-sync
+   2.2 npm i readline-sync
  
 3.running the file node<filename>
  example. node singlylinkedlist.js
